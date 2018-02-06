@@ -1,20 +1,32 @@
 Personal Website
 =============
 
+Self-project to learn, design and create my own website. Another purpose of this
+project is to help me properly document and make it a habit to document. Once I
+have an undestanding, I will try to add more and more features.
+
 
 Features
 -------------
 
+- One Page Website (Keeping it simple for now)
+- Resume
+- Projects
+- More links about me (Github, Twitter, Instagram, etc.)
 
-Installation
---------------
 
 Contribute
 -------------
 
+-Source Code: https://github.com/deltronzero94/deltronzero94.github.io
+
+
 Support
 -------------
 
+Any recommendations and tips are more than welcomed to further improve the website
+and my skills. 
+You can contact me at: KMZero94@gmail.com
 
 License
 ------------
