@@ -1,80 +1,15 @@
-.container {
-
+#test {
+    color: teal;
 }
 
-.nav-header {
-
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
 }
-
-
-body {
-    margin:0;
+.navbar-default .navbar-nav > li > a {
+    color: #777777;
 }
-
-h1 {
-    display: flex;
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #E7E7E7;
+    color: #555555;
 }
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover:not(.active) {
-    background-color: #111;
-}
-
-.active {
-    background-color: #4CAF50;
-}
-
-/* .header {
-    background-color: #333;
-    width: 100%;
-    margin: 0 auto;
-    float: right;
-}
-
-
-nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
-nav li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-} */
-
-/* Change the link color to #111 (black) on hover */
-/* li a:hover {
-    background-color: #111;
-} */
