@@ -1,6 +1,6 @@
 ---
 title: First Post
-author: Chris
+author: Carlos
 layout: post
 ---
 
