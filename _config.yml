@@ -46,12 +46,8 @@ url: "" # the base hostname & protocol for your site
 # Social settings
 facebook_url:
 github_url: https://github.com/deltronzero94
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+linkedin_url: https://www.linkedin.com/in/carlos-rios-178895154/
+twitter_url: https://github.com/deltronzero94
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
