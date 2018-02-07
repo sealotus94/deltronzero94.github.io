@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Resume
-icon: "far fa-file-pdf"
+icon: "fa-file"
 order: 3
 ---
