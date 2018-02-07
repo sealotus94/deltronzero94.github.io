@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
-icon: fa-question
+layout: blog
+title: Blog
+icon: fa-pencil
 order: 2
 ---
