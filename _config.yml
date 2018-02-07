@@ -44,10 +44,9 @@ baseurl: "/deltronzero94.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
 github_url: https://github.com/deltronzero94
 linkedin_url: https://www.linkedin.com/in/carlos-rios-178895154/
-twitter_url: https://github.com/deltronzero94
+twitter_url: 
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
