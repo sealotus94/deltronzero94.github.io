@@ -5,4 +5,4 @@ icon: "fa-file"
 order: 3
 ---
 
-{{ site.baseurl }}{{ resume/Resume_v2.pdf }}
+{{/deltronzero94.github.io}}{{ /resume/Resume_v2.pdf }}
