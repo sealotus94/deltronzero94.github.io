@@ -5,4 +5,4 @@ icon: "fa-file"
 order: 3
 ---
 
-{{/deltronzero94.github.io}}{{ /resume/Resume_v2.pdf }}
+<embed src="../resume/Resume_v2.pdf" width="800px" height="2100px" />
