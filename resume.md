@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Resume
 icon: "fa-file"
 order: 3
